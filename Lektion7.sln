@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console_Device", "Console_Device\Console_Device.csproj", "{88031F03-FB94-4C50-8794-9DDB34B25147}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iot_Shared", "Iot_Shared\Iot_Shared.csproj", "{4C4E2235-8FBF-444E-93BA-F9CF8B787D2E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wpf-Device", "Wpf-Device\Wpf-Device.csproj", "{51B54E44-444D-46EA-824A-63E4D19EA08C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maui-Device", "Maui-Device\Maui-Device.csproj", "{64BCE87B-33CA-455C-9B58-233C6F1DD21B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf-Service", "Wpf-Service\Wpf-Service.csproj", "{F080F01C-EF25-4695-89FE-CE79E990B604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88031F03-FB94-4C50-8794-9DDB34B25147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88031F03-FB94-4C50-8794-9DDB34B25147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88031F03-FB94-4C50-8794-9DDB34B25147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88031F03-FB94-4C50-8794-9DDB34B25147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C4E2235-8FBF-444E-93BA-F9CF8B787D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4E2235-8FBF-444E-93BA-F9CF8B787D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4E2235-8FBF-444E-93BA-F9CF8B787D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4E2235-8FBF-444E-93BA-F9CF8B787D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51B54E44-444D-46EA-824A-63E4D19EA08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B54E44-444D-46EA-824A-63E4D19EA08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B54E44-444D-46EA-824A-63E4D19EA08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B54E44-444D-46EA-824A-63E4D19EA08C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64BCE87B-33CA-455C-9B58-233C6F1DD21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64BCE87B-33CA-455C-9B58-233C6F1DD21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64BCE87B-33CA-455C-9B58-233C6F1DD21B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{64BCE87B-33CA-455C-9B58-233C6F1DD21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64BCE87B-33CA-455C-9B58-233C6F1DD21B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64BCE87B-33CA-455C-9B58-233C6F1DD21B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F080F01C-EF25-4695-89FE-CE79E990B604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F080F01C-EF25-4695-89FE-CE79E990B604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F080F01C-EF25-4695-89FE-CE79E990B604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F080F01C-EF25-4695-89FE-CE79E990B604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF49ABBF-D7B5-442D-AFAA-74629F758363}
+	EndGlobalSection
+EndGlobal
